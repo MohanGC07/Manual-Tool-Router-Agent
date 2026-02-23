@@ -22,7 +22,7 @@ Whether you're building ReAct agents, multi-step planners, or autonomous systems
 
 ## 🚀 Live Demo
 
-> 👉 **[Launch App](https://manual-tool-router-agent.streamlit.app/)** _(replace with your deployed URL)_
+> 👉 **[Launch App](https://manual-tool-router-agent.streamlit.app/)** 
 
 ---
 
